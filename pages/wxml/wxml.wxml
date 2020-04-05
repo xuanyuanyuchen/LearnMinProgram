@@ -102,5 +102,3 @@
 <template is="contentItem" data="{{btnText: '警告', content: '呵呵呵'}}"/>
 
 <template is="abc"/>
-
-

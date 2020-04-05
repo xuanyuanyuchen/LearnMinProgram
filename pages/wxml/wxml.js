@@ -38,5 +38,8 @@ Page({
     this.setData({
       score: this.data.score + 6
     })
+  },
+  numberFoFixed(value) {
+    return value.foFixed(2)
   }
 })
