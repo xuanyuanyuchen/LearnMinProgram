@@ -11,7 +11,7 @@
 .active {
   color: red;
 }
-.active text{
+.kuai{
   padding: 20rpx 16rpx;
   border-bottom: 4px solid red;
 }
